@@ -1,0 +1,16 @@
+.DS_Store
+**/.DS_Store
+
+# Common build artifacts
+dist/
+build/
+out/
+
+# Logs
+*.log
+
+# Node / tooling
+node_modules/
+.npmrc
+.env
+
